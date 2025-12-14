@@ -1,4 +1,4 @@
-compatibility_date = "2025-11-04"
+name = "wss-14"compatibility_date = "2025-11-04"
 keep_vars = true
 main = "_worker.js"
 #[[kv_namespaces]]
